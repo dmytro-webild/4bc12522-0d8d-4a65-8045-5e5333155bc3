@@ -58,28 +58,28 @@ export default function ServicesPage() {
               id: 1,
               title: "Création de Site Vitrine",
               description: "Nous créons votre site professionnel en 48h avec design moderne, hébergement inclus et domaine personnalisé. Votre présence en ligne démarre immédiatement.",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=4",
               imageAlt: "web design process workflow"
             },
             {
               id: 2,
               title: "Hébergement Web et Domaine",
               description: "Domaine, hébergement sécurisé et certificat SSL automatiquement inclus. Pas de coûts cachés. Infrastructure fiable et performante pour votre site.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=5",
               imageAlt: "website maintenance support concept"
             },
             {
               id: 3,
               title: "Design Responsive Mobile-First",
               description: "Tous nos sites s'adaptent parfaitement à tous les appareils. Votre site fonctionnera impeccablement sur téléphones, tablettes et ordinateurs de bureau.",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=5",
               imageAlt: "responsive design"
             },
             {
               id: 4,
               title: "Support Client Disponible 7j/7",
               description: "Notre équipe est toujours là pour vous. Questions, modifications, problèmes techniques - nous répondons rapidement et professionnellement tous les jours.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=6",
               imageAlt: "support team"
             }
           ]}
@@ -108,7 +108,7 @@ export default function ServicesPage() {
               price: "21€/mois",
               rating: 5,
               reviewCount: "28",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=7",
               imageAlt: "Basic maintenance package"
             },
             {
@@ -118,7 +118,7 @@ export default function ServicesPage() {
               price: "49€/mois",
               rating: 5,
               reviewCount: "15",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=6",
               imageAlt: "Advanced maintenance package"
             },
             {
@@ -128,7 +128,7 @@ export default function ServicesPage() {
               price: "99€/mois",
               rating: 5,
               reviewCount: "8",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=8",
               imageAlt: "Premium support package"
             }
           ]}
