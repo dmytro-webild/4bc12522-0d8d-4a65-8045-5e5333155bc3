@@ -100,7 +100,7 @@ export default function PricingPage() {
           ]}
           className="py-16"
           containerClassName="max-w-6xl mx-auto px-4"
-          titleClassName="text-4xl font-light text-[var(--foreground)] mb-4"
+          textBoxTitleClassName="text-4xl font-light text-[var(--foreground)] mb-4"
           textBoxDescriptionClassName="text-[var(--foreground)]/70 mt-2"
         />
       </div>
