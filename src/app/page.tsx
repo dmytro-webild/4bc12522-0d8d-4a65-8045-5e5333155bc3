@@ -104,28 +104,28 @@ export default function HomePage() {
               id: 1,
               title: "Site livré en 48h",
               description: "Création rapide et efficace de votre site vitrine professionnel",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=1",
               imageAlt: "web design process workflow"
             },
             {
               id: 2,
               title: "Hébergement inclus",
               description: "Domaine, hébergement web et certificat SSL inclus dans nos offres",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=1",
               imageAlt: "website maintenance support concept"
             },
             {
               id: 3,
               title: "Responsive mobile",
               description: "Votre site s'adapte parfaitement à tous les appareils et écrans",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=2",
               imageAlt: "responsive design icon"
             },
             {
               id: 4,
               title: "Support 7j/7",
               description: "Une équipe disponible pour vous aider et vous conseiller",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=2",
               imageAlt: "support team icon"
             }
           ]}
@@ -154,7 +154,7 @@ export default function HomePage() {
               price: "À partir de 200€",
               rating: 5,
               reviewCount: "12",
-              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?_wi=3",
               imageAlt: "Création de site web"
             },
             {
@@ -164,7 +164,7 @@ export default function HomePage() {
               price: "21€/mois",
               rating: 5,
               reviewCount: "8",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=3",
               imageAlt: "Maintenance de site"
             },
             {
@@ -174,7 +174,7 @@ export default function HomePage() {
               price: "Inclus",
               rating: 5,
               reviewCount: "15",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-employees-working_23-2147577285.jpg?_wi=4",
               imageAlt: "Support technique"
             }
           ]}
@@ -260,7 +260,7 @@ export default function HomePage() {
               role: "Propriétaire",
               company: "Boutique de Mode",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg?_wi=1",
               imageAlt: "professional business person portrait"
             },
             {
@@ -269,7 +269,7 @@ export default function HomePage() {
               role: "Gérant",
               company: "Restaurant Local",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-16182.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-16182.jpg?_wi=1",
               imageAlt: "successful business woman portrait"
             },
             {
@@ -278,7 +278,7 @@ export default function HomePage() {
               role: "Directrice",
               company: "Cabinet de Conseil",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg?_wi=2",
               imageAlt: "business man professional portrait"
             },
             {
@@ -296,7 +296,7 @@ export default function HomePage() {
               role: "Présidente",
               company: "PME Locale",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg?_wi=3",
               imageAlt: "professional business person portrait"
             },
             {
@@ -305,7 +305,7 @@ export default function HomePage() {
               role: "Directeur",
               company: "Entreprise Artisanale",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-16182.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-16182.jpg?_wi=2",
               imageAlt: "successful business woman portrait"
             }
           ]}
